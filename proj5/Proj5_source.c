@@ -3,8 +3,7 @@
 * Authors: Jonathan Barnes, Joshua Chevalier
 * Team #:36
 * Date: 10/25/17
-* Description: use switches to set a binary number. display in hex on lcd, use for timer up with
- * btnU and timer down with btnD
+* Description: line following robot
 =============================================================================*/
 #include <xc.h>
 #include <plib.h>
